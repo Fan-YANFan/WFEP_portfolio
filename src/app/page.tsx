@@ -28,7 +28,7 @@ export default function HomePage() {
           <div className="mt-10 flex flex-wrap gap-4">
             <Button href="/projects">View work</Button>
             <Button href="/about" variant="secondary">
-              About me
+              About me me
             </Button>
           </div>
           <dl className="mt-16 grid grid-cols-2 gap-8 border-t border-border pt-10 sm:grid-cols-4">
