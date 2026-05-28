@@ -67,14 +67,14 @@ export default function AboutPage() {
           />
           <div className="max-w-2xl space-y-6 text-lg leading-relaxed text-ink-muted">
             <p>
-              Over eight years I&apos;ve worked across discovery workshops, design systems,
+              Over two years I&apos;ve worked across discovery workshops, design systems,
               and high-fidelity prototyping—often embedded with product and engineering
               from day one.
             </p>
             <p>
               My process usually starts with understanding jobs-to-be-done and success
               metrics, then moves into journey maps, wireframes, and iterative testing.
-              I prototype in Figma and collaborate in Notion, Linear, and Storybook.
+              I prototype in Figma & XD and collaborate in Miro and Notion.
             </p>
             <p>
               Outside client work I mentor early-career designers and speak at local

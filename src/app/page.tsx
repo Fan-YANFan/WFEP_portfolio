@@ -33,9 +33,9 @@ export default function HomePage() {
           </div>
           <dl className="mt-16 grid grid-cols-2 gap-8 border-t border-border pt-10 sm:grid-cols-4">
             {[
-              { label: "Years in product", value: "8+" },
-              { label: "Shipped products", value: "24" },
-              { label: "Industries", value: "6" },
+              { label: "Years in product", value: "1+" },
+              { label: "Shipped products", value: "4" },
+              { label: "Industries", value: "0" },
               { label: "Based in", value: site.location },
             ].map((stat) => (
               <div key={stat.label}>
